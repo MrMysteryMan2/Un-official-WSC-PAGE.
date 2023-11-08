@@ -1,0 +1,45 @@
+p{
+	color:white;
+}
+
+p{
+	font-family:Tahoma;
+	font-weight:normal;
+}
+
+h1{
+	color:gold;
+	font-family:Tahoma;
+	
+}
+
+h3{
+	color:gold;
+}
+
+
+h4{
+	color:white;
+}
+
+a{
+	color:gold;
+}
+
+ol{
+	color:white;
+	font-size:17px;
+	font-family:Tahoma;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+ul{
+	color:white;
+	font-family:Tahoma;
+	font-size:17px;
+}
